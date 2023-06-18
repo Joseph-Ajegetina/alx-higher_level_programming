@@ -2,5 +2,5 @@
 
 
 def number_keys(a_dictionary):
-  """ return number of keys in dictionary"""
-  return len(a_dictionary.keys())
+    """ return number of keys in dictionary"""
+    return len(a_dictionary.keys())
